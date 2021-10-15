@@ -1,0 +1,11 @@
+.hero-container {
+    background-image: url("../../../Images/inside.jpg");
+    background-size: cover;
+    height: 53rem;
+    width: 100%;
+}
+.hero-title {
+    padding: 20rem;
+    font-size: 6rem;
+    border-radius: 3px;
+}
